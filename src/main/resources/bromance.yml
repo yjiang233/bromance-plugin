@@ -1,0 +1,15 @@
+#################################################
+#            Database Config                    #
+################################################
+# currently can only support mysql
+database:
+  # The username for connecting mysql
+  username: "your username"
+  # The password for connecting mysql
+  password: "your password"
+  # The url for connecting mysql,the example:
+  # http://localhost:3306
+  url: "your mysql url"
+  # Table Name
+  # Default: user
+  table: "user"
