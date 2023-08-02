@@ -55,6 +55,23 @@
 
 
 
+
+<!-- links -->
+[your-project-path]:yjiang233/bromance-plugin
+[contributors-shield]: https://img.shields.io/github/contributors/yjiang233/bromance-plugin.svg?style=flat-square
+[contributors-url]: https://github.com/yjiang233/bromance-plugin/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/yjiang233/bromance-plugin.svg?style=flat-square
+[forks-url]: https://github.com/yjiang233/bromance-plugin/network/members
+[stars-shield]: https://img.shields.io/github/stars/yjiang233/bromance-plugin.svg?style=flat-square
+[stars-url]: https://github.com/yjiang233/bromance-plugin/stargazers
+[issues-shield]: https://img.shields.io/github/issues/yjiang233/bromance-plugin.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/yjiang233/bromance-plugin.svg
+[license-shield]: https://img.shields.io/github/license/yjiang233/bromance-plugin.svg?style=flat-square
+[license-url]: https://github.com/yjiang233/bromance-plugin/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/yjiang233
+
+
 ### 作者
 Y酱 | yjiang233@outlook.com
 qq: 2964782397
