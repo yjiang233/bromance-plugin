@@ -9,7 +9,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -40,7 +39,7 @@
 - [配置文件](#配置文件)
 - [更新说明](#更新说明)
 - [作者](#作者)
-
+- [鸣谢](#鸣谢)
 
 ### 安装教程
 
@@ -54,6 +53,8 @@
 ### 更新说明
 
 
+### 鸣谢
+- [SpigotMC](https://www.spigotmc.org)
 
 
 <!-- links -->
@@ -69,7 +70,6 @@
 [license-shield]: https://img.shields.io/github/license/yjiang233/bromance-plugin.svg?style=flat-square
 [license-url]: https://github.com/yjiang233/bromance-plugin/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yjiang233
 
 
 ### 作者
